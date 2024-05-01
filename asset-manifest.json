@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zit-test/static/css/main.ac370e54.css",
-    "main.js": "/zit-test/static/js/main.8841cdf7.js",
+    "main.js": "/zit-test/static/js/main.abc185ee.js",
     "static/js/4948.b35da0e0.chunk.js": "/zit-test/static/js/4948.b35da0e0.chunk.js",
     "static/js/7749.2121de1c.chunk.js": "/zit-test/static/js/7749.2121de1c.chunk.js",
     "static/js/9716.871bef53.chunk.js": "/zit-test/static/js/9716.871bef53.chunk.js",
@@ -155,7 +155,7 @@
     "static/js/1901.41ca333b.chunk.js": "/zit-test/static/js/1901.41ca333b.chunk.js",
     "index.html": "/zit-test/index.html",
     "main.ac370e54.css.map": "/zit-test/static/css/main.ac370e54.css.map",
-    "main.8841cdf7.js.map": "/zit-test/static/js/main.8841cdf7.js.map",
+    "main.abc185ee.js.map": "/zit-test/static/js/main.abc185ee.js.map",
     "4948.b35da0e0.chunk.js.map": "/zit-test/static/js/4948.b35da0e0.chunk.js.map",
     "7749.2121de1c.chunk.js.map": "/zit-test/static/js/7749.2121de1c.chunk.js.map",
     "9716.871bef53.chunk.js.map": "/zit-test/static/js/9716.871bef53.chunk.js.map",
@@ -310,6 +310,6 @@
   },
   "entrypoints": [
     "static/css/main.ac370e54.css",
-    "static/js/main.8841cdf7.js"
+    "static/js/main.abc185ee.js"
   ]
 }
