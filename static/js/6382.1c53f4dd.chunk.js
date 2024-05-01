@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_yeitucrab=self.webpackChunktest_yeitucrab||[]).push([[6382],{6382:(e,t,a)=>{a.r(t),a.d(t,{MainPage:()=>i});var s=a(5043);const n=(0,s.lazy)((async()=>await Promise.all([a.e(8842),a.e(1901),a.e(9077)]).then(a.bind(a,9077)).then((e=>({default:e.ToDoList})))));var c=a(579);const i=(0,s.memo)((()=>(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(n,{})})))}}]);
+//# sourceMappingURL=6382.1c53f4dd.chunk.js.map
