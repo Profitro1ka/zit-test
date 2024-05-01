@@ -25,3 +25,6 @@ ___
 Выполнить `npm install`
 
 Выполнить `npm start`
+
+
+## Хостинг : https://profitro1ka.github.io/zit-test/
